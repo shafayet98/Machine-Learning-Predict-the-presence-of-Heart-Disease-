@@ -1,4 +1,4 @@
-A machine learning application, prototyped in Octave that predicts the presence of heart diseases. This program use “Multivariate Logistic Regression Model” to analyse and train data. By evaluating the features the model creates a decision boundary to distinguish the presence or absence of heart disease.
+A machine learning application, prototyped in Octave that predicts the presence of heart disease. This program use “Multivariate Logistic Regression Model” to analyse and train data. By evaluating the features the model creates a decision boundary to distinguish the presence or absence of heart disease.
 
 - Dataset:
   
